@@ -5,8 +5,24 @@
   <action id="$Cut">
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="CompareTwoFiles" />
+  <action id="Console.Oracle.DbmsOutput">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
   <action id="Console.TableResult.EditFilterCriteria" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="ctrl f9" />
+  </action>
+  <action id="Diff.NextChange">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
@@ -16,11 +32,27 @@
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
+  <action id="ForceRunToCursor">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="ForceStepInto">
+    <keyboard-shortcut first-keystroke="shift f7" />
+  </action>
+  <action id="ForceStepOver">
+    <keyboard-shortcut first-keystroke="ctrl f6" />
+  </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="shift ctrl v" />
+  </action>
+  <action id="Pause">
+    <keyboard-shortcut first-keystroke="ctrl f8" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
@@ -28,9 +60,38 @@
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
-  <action id="RunToCursor" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+  </action>
+  <action id="RunToCursor">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="SetNextStatement">
+    <keyboard-shortcut first-keystroke="shift f10" />
+  </action>
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="shift alt s" />
+    <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
   <action id="ShowReformatFileDialog">
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
   </action>
+  <action id="SmartStepInto">
+    <keyboard-shortcut first-keystroke="alt f7" />
+  </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="ctrl f7" />
+  </action>
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
+  <action id="UML.ApplyCurrentLayout" />
   <action id="Vcs.QuickListPopupAction" />
 </keymap>
