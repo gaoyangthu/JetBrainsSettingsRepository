@@ -11,6 +11,12 @@
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Oracle.DbmsOutput">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
