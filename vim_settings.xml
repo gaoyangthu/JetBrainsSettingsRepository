@@ -9,16 +9,28 @@
         <mark key="^" line="522" column="36" />
         <mark key="." line="522" column="36" />
       </file>
+      <file name="C:/Workspace/Code/CLionProjects/GtaRt/CallBackBase.cpp" timestamp="1540795397475">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="50" column="0" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name=":" type="4">
+        <text>wq</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>wq</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
