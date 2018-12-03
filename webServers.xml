@@ -6,6 +6,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="a79d7a79-fa24-4985-b669-921de95de007" name="WSL (a79d7a79-fa24-4985-b669-921de95de007)" url="http:///">
+        <fileTransfer host="localhost" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
