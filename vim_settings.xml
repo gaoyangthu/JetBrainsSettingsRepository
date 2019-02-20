@@ -1,95 +1,15 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="C:/Workspace/Code/CLionProjects/JulingRt/include/l2_msg_def.h" timestamp="1536905455978">
-        <mark key="[" line="522" column="36" />
-        <mark key="]" line="522" column="36" />
-        <mark key="^" line="522" column="36" />
-        <mark key="." line="522" column="36" />
-      </file>
-      <file name="C:/Workspace/Code/CLionProjects/GtaRt/include/QTSDataType.h" timestamp="1541767357509">
-        <mark key="[" line="563" column="48" />
-        <mark key="]" line="563" column="48" />
-        <mark key="." line="563" column="48" />
-      </file>
-      <file name="C:/Workspace/Code/CLionProjects/GtaRt/CallBackBase.cpp" timestamp="1540795397475">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="50" column="0" />
-      </file>
-      <file name="C:/Workspace/Code/CLionProjects/GtaRt/GtaRtRcv.cpp" timestamp="1542264478620">
-        <mark key="[" line="2567" column="16" />
-        <mark key="]" line="2567" column="16" />
-        <mark key="." line="2567" column="16" />
-      </file>
-      <file name="C:/Workspace/Code/CLionProjects/GtaRt/GtaRtRcvHKEX.cpp" timestamp="1550106460397">
-        <mark key="[" line="2640" column="31" />
-        <mark key="]" line="2640" column="31" />
-        <mark key="." line="2640" column="31" />
-        <mark key="^" line="2640" column="31" />
-      </file>
-    </filemarks>
+    <filemarks />
     <jumps />
-    <registers>
-      <register name="1" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>(</text>
-      </register>
-      <register name="2" type="8">
-        <text encoding="base64">UmVhbEhLRVhMMkJyb2tlclF1ZXVlLT5CdXlCcm9rZXJRdWV1ZVswXS5Ccm9rZXJJRCwgClJlYWxIS0VYTDJCcm9rZXJRdWV1ZS0+QnV5QnJva2VyUXVldWVbMV0uQnJva2VySUQsIApSZWFsSEtFWEwyQnJva2VyUXVldWUtPkJ1eUJyb2tlclF1ZXVlWzJdLkJyb2tlcklELCAKUmVhbEhLRVhMMkJyb2tlclF1ZXVlLT5CdXlCcm9rZXJRdWV1ZVszXS5Ccm9rZXJJRCwgClJlYWxIS0VYTDJCcm9rZXJRdWV1ZS0+QnV5QnJva2VyUXVldWVbNF0uQnJva2VySUQsIApSZWFsSEtFWEwyQnJva2VyUXVldWUtPkJ1eUJyb2tlclF1ZXVlWzVdLkJyb2tlcklELCAKUmVhbEhLRVhMMkJyb2tlclF1ZXVlLT5CdXlCcm9rZXJRdWV1ZVs2XS5Ccm9rZXJJRCwgClJlYWxIS0VYTDJCcm9rZXJRdWV1ZS0+QnV5QnJva2VyUXVldWVbN10uQnJva2VySUQsIApSZWFsSEtFWEwyQnJva2VyUXVldWUtPkJ1eUJyb2tlclF1ZXVlWzhdLkJyb2tlcklELCAKUmVhbEhLRVhMMkJyb2tlclF1ZXVlLT5CdXlCcm9rZXJRdWV1ZVs5XS5Ccm9rZXJJRCwgClJlYWxIS0VYTDJCcm9rZXJRdWV1ZS0+QnV5QnJva2VyUXVldWVbMTBdLkJyb2tlcklELApSZWFsSEtFWEwyQnJva2VyUXVldWUtPkJ1eUJyb2tlclF1ZXVlWzExXS5Ccm9rZXJJRCwKUmVhbEhLRVhMMkJyb2tlclF1ZXVlLT5CdXlCcm9rZXJRdWV1ZVsxMl0uQnJva2VySUQsClJlYWxIS0VYTDJCcm9rZXJRdWV1ZS0+QnV5QnJva2VyUXVldWVbMTNdLkJyb2tlcklELApSZWFsSEtFWEwyQnJva2VyUXVldWUtPkJ1eUJyb2tlclF1ZXVlWzE0XS5Ccm9rZXJJRCwKUmVhbEhLRVhMMkJyb2tlclF1ZXVlLT5CdXlCcm9rZXJRdWV1ZVsxNV0uQnJva2VySUQsClJlYWxIS0VYTDJCcm9rZXJRdWV1ZS0+QnV5QnJva2VyUXVldWVbMTZdLkJyb2tlcklELApSZWFsSEtFWEwyQnJva2VyUXVldWUtPkJ1eUJyb2tlclF1ZXVlWzE3XS5Ccm9rZXJJRCwKUmVhbEhLRVhMMkJyb2tlclF1ZXVlLT5CdXlCcm9rZXJRdWV1ZVsxOF0uQnJva2VySUQsClJlYWxIS0VYTDJCcm9rZXJRdWV1ZS0+QnV5QnJva2VyUXVldWVbMTldLkJyb2tlcklELApSZWFsSEtFWEwyQnJva2VyUXVldWUtPkJ1eUJyb2tlclF1ZXVlWzIwXS5Ccm9rZXJJRCwKUmVhbEhLRVhMMkJyb2tlclF1ZXVlLT5CdXlCcm9rZXJRdWV1ZVsyMV0uQnJva2VySUQsClJlYWxIS0VYTDJCcm9rZXJRdWV1ZS0+QnV5QnJva2VyUXVldWVbMjJdLkJyb2tlcklELApSZWFsSEtFWEwyQnJva2VyUXVldWUtPkJ1eUJyb2tlclF1ZXVlWzIzXS5Ccm9rZXJJRCwKUmVhbEhLRVhMMkJyb2tlclF1ZXVlLT5CdXlCcm9rZXJRdWV1ZVsyNF0uQnJva2VySUQsClJlYWxIS0VYTDJCcm9rZXJRdWV1ZS0+QnV5QnJva2VyUXVldWVbMjVdLkJyb2tlcklELApSZWFsSEtFWEwyQnJva2VyUXVldWUtPkJ1eUJyb2tlclF1ZXVlWzI2XS5Ccm9rZXJJRCwKUmVhbEhLRVhMMkJyb2tlclF1ZXVlLT5CdXlCcm9rZXJRdWV1ZVsyN10uQnJva2VySUQsClJlYWxIS0VYTDJCcm9rZXJRdWV1ZS0+QnV5QnJva2VyUXVldWVbMjhdLkJyb2tlcklELApSZWFsSEtFWEwyQnJva2VyUXVldWUtPkJ1eUJyb2tlclF1ZXVlWzI5XS5Ccm9rZXJJRCwKUmVhbEhLRVhMMkJyb2tlclF1ZXVlLT5CdXlCcm9rZXJRdWV1ZVszMF0uQnJva2VySUQsClJlYWxIS0VYTDJCcm9rZXJRdWV1ZS0+QnV5QnJva2VyUXVldWVbMzFdLkJyb2tlcklELApSZWFsSEtFWEwyQnJva2VyUXVldWUtPkJ1eUJyb2tlclF1ZXVlWzMyXS5Ccm9rZXJJRCwKUmVhbEhLRVhMMkJyb2tlclF1ZXVlLT5CdXlCcm9rZXJRdWV1ZVszM10uQnJva2VySUQsClJlYWxIS0VYTDJCcm9rZXJRdWV1ZS0+QnV5QnJva2VyUXVldWVbMzRdLkJyb2tlcklELApSZWFsSEtFWEwyQnJva2VyUXVldWUtPkJ1eUJyb2tlclF1ZXVlWzM1XS5Ccm9rZXJJRCwKUmVhbEhLRVhMMkJyb2tlclF1ZXVlLT5CdXlCcm9rZXJRdWV1ZVszNl0uQnJva2VySUQsClJlYWxIS0VYTDJCcm9rZXJRdWV1ZS0+QnV5QnJva2VyUXVldWVbMzddLkJyb2tlcklELApSZWFsSEtFWEwyQnJva2VyUXVldWUtPkJ1eUJyb2tlclF1ZXVlWzM4XS5Ccm9rZXJJRCwKUmVhbEhLRVhMMkJyb2tlclF1ZXVlLT5CdXlCcm9rZXJRdWV1ZVszOV0uQnJva2VySUQs</text>
-      </register>
-      <register name="3" type="8">
-        <text>MSG_Q_ID msgQ
-MSG_Q_ID msgQ
-MSG_Q_ID msgQ
-MSG_Q_ID msgQ
-MSG_Q_ID msgQ
-MSG_Q_ID msgQ
-MSG_Q_ID msgQ
-MSG_Q_ID msgQ
-MSG_Q_ID msgQ
-MSG_Q_ID msgQ
-MSG_Q_ID msgQ
-MSG_Q_ID msgQ</text>
-      </register>
-      <register name="4" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>(</text>
-      </register>
-    </registers>
+    <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search />
-      <history-cmd>
-        <entry>wq</entry>
-        <entry>w</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <history />
+    <shortcut-conflicts />
   </component>
 </application>
