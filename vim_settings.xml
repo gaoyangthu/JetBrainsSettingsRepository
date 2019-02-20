@@ -1,8 +1,18 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="C:/Workspace/Code/CLionProjects/GtaRt/include/QTSStruct.h" timestamp="1550631584261">
+        <mark key="[" line="946" column="38" />
+      </file>
+      <file name="C:/Workspace/Code/CLionProjects/GtaRt/CallBackBase.cpp" timestamp="1550631670421">
+        <mark key="[" line="377" column="31" />
+      </file>
+      <file name="C:/Workspace/Code/CLionProjects/GtaRt/GtaRtRcvHKEX.cpp" timestamp="1550631662852">
+        <mark key="[" line="825" column="20" />
+      </file>
+    </filemarks>
     <jumps />
     <registers />
     <search>
@@ -10,6 +20,10 @@
       <show-last>false</show-last>
     </search>
     <history />
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
