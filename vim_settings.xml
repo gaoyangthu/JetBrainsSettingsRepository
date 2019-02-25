@@ -3,130 +3,75 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Workspace/Code/PyCharmProjects/RtKafkaProc/GtaDtgDataToWindFormat.py" timestamp="1548141701658">
-        <mark key="[" line="32" column="28" />
-        <mark key="]" line="32" column="28" />
-        <mark key="." line="32" column="28" />
-        <mark key="^" line="31" column="28" />
+      <file name="C:/Workspace/Code/CLionProjects/WindTdb/include/TDBAPI.h" timestamp="1550730781176">
+        <mark key="[" line="180" column="1" />
+        <mark key="]" line="180" column="1" />
+        <mark key="." line="180" column="1" />
+        <mark key="^" line="63" column="50" />
       </file>
-      <file name="C:/Workspace/Code/CLionProjects/JulingRt/include/l2_msg_def.h" timestamp="1536905455978">
-        <mark key="[" line="522" column="36" />
-        <mark key="]" line="522" column="36" />
-        <mark key="^" line="522" column="36" />
-        <mark key="." line="522" column="36" />
+      <file name="C:/Workspace/Code/CLionProjects/WindTdf/include/TDFAPIStruct.h" timestamp="1550818974330">
+        <mark key="[" line="351" column="26" />
+        <mark key="]" line="351" column="26" />
+        <mark key="." line="351" column="26" />
+        <mark key="^" line="351" column="26" />
       </file>
-      <file name="C:/Workspace/Code/CLionProjects/GtaRt/include/QTSDataType.h" timestamp="1541767357509">
-        <mark key="[" line="563" column="48" />
-        <mark key="]" line="563" column="48" />
-        <mark key="." line="563" column="48" />
+      <file name="C:/Workspace/Code/CLionProjects/GtaRt/include/QTSStruct.h" timestamp="1550631584261">
+        <mark key="[" line="946" column="38" />
       </file>
-      <file name="C:/Workspace/Code/CLionProjects/GtaRt/CallBackBase.cpp" timestamp="1540795397475">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="50" column="0" />
+      <file name="C:/Workspace/Code/CLionProjects/GtaRt/CallBackBase.cpp" timestamp="1550631670421">
+        <mark key="[" line="377" column="31" />
       </file>
-      <file name="C:/Workspace/Code/CLionProjects/GtaRt/GtaRtRcv.cpp" timestamp="1542264478620">
-        <mark key="[" line="2567" column="16" />
-        <mark key="]" line="2567" column="16" />
-        <mark key="." line="2567" column="16" />
+      <file name="C:/Workspace/Code/CLionProjects/GtaRt/GtaRtRcvHKEX.cpp" timestamp="1550631662852">
+        <mark key="[" line="825" column="20" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="8">
-        <text>: ['%s/arentDir],
-: ['%s/parentDir]</text>
+        <text encoding="base64">ICAgCiAgIAogICA=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ty' % parentDir, '%s/DCEL2/CMO/MarchPriceQty' % parentDir]</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ICAgCiAgIAogICA=</text>
       </register>
       <register name="2" type="8">
-        <text>: ['%s/Sir],
-: ['%s/SDir]
-: ['%s/SDir]</text>
+        <text encoding="base64">ICAgCiAgIAogICA=</text>
       </register>
       <register name="3" type="8">
-        <text>: ['%s/SS,
-: ['%s/SZ]</text>
+        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIA==</text>
       </register>
       <register name="4" type="8">
-        <text>: ['%s/SSE
- ['%s/SSEL
- ['%s/SZSE
- ['%s/SSEL
-: ['%s/SSE]</text>
+        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIA==</text>
       </register>
       <register name="5" type="8">
-        <text>: ['%s/SrentDir]
-: ['%s/SarentDir</text>
+        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIAogICA=</text>
       </register>
       <register name="6" type="8">
-        <text encoding="base64">IFsnJXMvU1NFCiBbJyVzL1NaUwo6IFsnJXMvU1MKOiBbJyVzL1NaCjogWyclcy9TWg==</text>
+        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIAogICA=</text>
       </register>
       <register name="7" type="8">
-        <text>L2/STOCK/TAQ/' % parentDir],
-EL2/STOCK/TAQ/' % parentDir]
-EL2/STOCK/TRADE/' % parentDi
-SEL2/STOCK/TRADE/' % parentD
-SEL2/STOCK/ORDER/' % parentD
-SEL2/STOCK/ORDERQUEUE/' % pa
-ZSEL2/STOCK/ORDERQUEUE/' % p
-L2/SO/TAQ' % parentDir],
-2/INDEX/TAQ' % parentDir],
-L2/INDEX/TAQ' % parentDir],
-2/STOCK/TAQ/' % parentDir],
-L2/STOCK/TRADE/' % parentDir
-EL2/STOCK/TAQ/' % parentDir]
-SEL2/STOCK/TAQ/' % parentDir
-SEL2/STOCK/TRADE/' % parentD
-ZSEL2/STOCK/TRADE/' % parent
-ZSEL2/STOCK/ORDER/' % parent
-SSEL2/STOCK/ORDERQUEUE/' % p
-SZSEL2/STOCK/ORDERQUEUE/' % 
-FEXL2/IF/TAQ' % parentDir, '
-FEL1/CMF/TAQ' % parentDir, '
-/CZCEL1/CMF/TAQ' % parentDir
-/DCEL2/CMF/TAQ' % parentDir,
-['%s/DCEL2/CMF/ArbiQuotation
-'%s/DCEL2/CMF/RealTimePrice'
-: ['%s/DCEL2/CMF/OrderStatis
-: ['%s/DCEL2/CMF/MarchPriceQ</text>
+        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIAogICA=</text>
       </register>
       <register name="8" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
+        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIAogICA=</text>
       </register>
       <register name="9" type="8">
-        <text encoding="base64">UmVhbEhLRVhMMkJyb2tlclF1ZXVlLT5CdXlCcm9rZXJRdWV1ZVswXS5Ccm9rZXJJRCwgClJlYWxIS0VYTDJCcm9rZXJRdWV1ZS0+QnV5QnJva2VyUXVldWVbMV0uQnJva2VySUQsIApSZWFsSEtFWEwyQnJva2VyUXVldWUtPkJ1eUJyb2tlclF1ZXVlWzJdLkJyb2tlcklELCAKUmVhbEhLRVhMMkJyb2tlclF1ZXVlLT5CdXlCcm9rZXJRdWV1ZVszXS5Ccm9rZXJJRCwgClJlYWxIS0VYTDJCcm9rZXJRdWV1ZS0+QnV5QnJva2VyUXVldWVbNF0uQnJva2VySUQsIApSZWFsSEtFWEwyQnJva2VyUXVldWUtPkJ1eUJyb2tlclF1ZXVlWzVdLkJyb2tlcklELCAKUmVhbEhLRVhMMkJyb2tlclF1ZXVlLT5CdXlCcm9rZXJRdWV1ZVs2XS5Ccm9rZXJJRCwgClJlYWxIS0VYTDJCcm9rZXJRdWV1ZS0+QnV5QnJva2VyUXVldWVbN10uQnJva2VySUQsIApSZWFsSEtFWEwyQnJva2VyUXVldWUtPkJ1eUJyb2tlclF1ZXVlWzhdLkJyb2tlcklELCAKUmVhbEhLRVhMMkJyb2tlclF1ZXVlLT5CdXlCcm9rZXJRdWV1ZVs5XS5Ccm9rZXJJRCwgClJlYWxIS0VYTDJCcm9rZXJRdWV1ZS0+QnV5QnJva2VyUXVldWVbMTBdLkJyb2tlcklELApSZWFsSEtFWEwyQnJva2VyUXVldWUtPkJ1eUJyb2tlclF1ZXVlWzExXS5Ccm9rZXJJRCwKUmVhbEhLRVhMMkJyb2tlclF1ZXVlLT5CdXlCcm9rZXJRdWV1ZVsxMl0uQnJva2VySUQsClJlYWxIS0VYTDJCcm9rZXJRdWV1ZS0+QnV5QnJva2VyUXVldWVbMTNdLkJyb2tlcklELApSZWFsSEtFWEwyQnJva2VyUXVldWUtPkJ1eUJyb2tlclF1ZXVlWzE0XS5Ccm9rZXJJRCwKUmVhbEhLRVhMMkJyb2tlclF1ZXVlLT5CdXlCcm9rZXJRdWV1ZVsxNV0uQnJva2VySUQsClJlYWxIS0VYTDJCcm9rZXJRdWV1ZS0+QnV5QnJva2VyUXVldWVbMTZdLkJyb2tlcklELApSZWFsSEtFWEwyQnJva2VyUXVldWUtPkJ1eUJyb2tlclF1ZXVlWzE3XS5Ccm9rZXJJRCwKUmVhbEhLRVhMMkJyb2tlclF1ZXVlLT5CdXlCcm9rZXJRdWV1ZVsxOF0uQnJva2VySUQsClJlYWxIS0VYTDJCcm9rZXJRdWV1ZS0+QnV5QnJva2VyUXVldWVbMTldLkJyb2tlcklELApSZWFsSEtFWEwyQnJva2VyUXVldWUtPkJ1eUJyb2tlclF1ZXVlWzIwXS5Ccm9rZXJJRCwKUmVhbEhLRVhMMkJyb2tlclF1ZXVlLT5CdXlCcm9rZXJRdWV1ZVsyMV0uQnJva2VySUQsClJlYWxIS0VYTDJCcm9rZXJRdWV1ZS0+QnV5QnJva2VyUXVldWVbMjJdLkJyb2tlcklELApSZWFsSEtFWEwyQnJva2VyUXVldWUtPkJ1eUJyb2tlclF1ZXVlWzIzXS5Ccm9rZXJJRCwKUmVhbEhLRVhMMkJyb2tlclF1ZXVlLT5CdXlCcm9rZXJRdWV1ZVsyNF0uQnJva2VySUQsClJlYWxIS0VYTDJCcm9rZXJRdWV1ZS0+QnV5QnJva2VyUXVldWVbMjVdLkJyb2tlcklELApSZWFsSEtFWEwyQnJva2VyUXVldWUtPkJ1eUJyb2tlclF1ZXVlWzI2XS5Ccm9rZXJJRCwKUmVhbEhLRVhMMkJyb2tlclF1ZXVlLT5CdXlCcm9rZXJRdWV1ZVsyN10uQnJva2VySUQsClJlYWxIS0VYTDJCcm9rZXJRdWV1ZS0+QnV5QnJva2VyUXVldWVbMjhdLkJyb2tlcklELApSZWFsSEtFWEwyQnJva2VyUXVldWUtPkJ1eUJyb2tlclF1ZXVlWzI5XS5Ccm9rZXJJRCwKUmVhbEhLRVhMMkJyb2tlclF1ZXVlLT5CdXlCcm9rZXJRdWV1ZVszMF0uQnJva2VySUQsClJlYWxIS0VYTDJCcm9rZXJRdWV1ZS0+QnV5QnJva2VyUXVldWVbMzFdLkJyb2tlcklELApSZWFsSEtFWEwyQnJva2VyUXVldWUtPkJ1eUJyb2tlclF1ZXVlWzMyXS5Ccm9rZXJJRCwKUmVhbEhLRVhMMkJyb2tlclF1ZXVlLT5CdXlCcm9rZXJRdWV1ZVszM10uQnJva2VySUQsClJlYWxIS0VYTDJCcm9rZXJRdWV1ZS0+QnV5QnJva2VyUXVldWVbMzRdLkJyb2tlcklELApSZWFsSEtFWEwyQnJva2VyUXVldWUtPkJ1eUJyb2tlclF1ZXVlWzM1XS5Ccm9rZXJJRCwKUmVhbEhLRVhMMkJyb2tlclF1ZXVlLT5CdXlCcm9rZXJRdWV1ZVszNl0uQnJva2VySUQsClJlYWxIS0VYTDJCcm9rZXJRdWV1ZS0+QnV5QnJva2VyUXVldWVbMzddLkJyb2tlcklELApSZWFsSEtFWEwyQnJva2VyUXVldWUtPkJ1eUJyb2tlclF1ZXVlWzM4XS5Ccm9rZXJJRCwKUmVhbEhLRVhMMkJyb2tlclF1ZXVlLT5CdXlCcm9rZXJRdWV1ZVszOV0uQnJva2VySUQs</text>
-      </register>
-      <register name=":" type="4">
-        <text>wq</text>
+        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIAogICA=</text>
       </register>
       <register name="-" type="4">
-        <text>ty' % parentDir, '%s/DCEL2/CMO/MarchPriceQty' % parentDir]</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search />
-      <history-cmd>
-        <entry>wq</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
+    <history />
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
