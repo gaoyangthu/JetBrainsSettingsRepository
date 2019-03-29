@@ -24,38 +24,44 @@
       <file name="C:/Workspace/Code/CLionProjects/GtaRt/GtaRtRcvHKEX.cpp" timestamp="1550631662852">
         <mark key="[" line="825" column="20" />
       </file>
+      <file name="C:/Workspace/Code/PyCharmProjects/RtKafkaProc/ConfigKafkaPandasProcGta.py" timestamp="1553844373134">
+        <mark key="[" line="442" column="103" />
+        <mark key="]" line="443" column="3" />
+        <mark key="." line="443" column="3" />
+        <mark key="^" line="443" column="3" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="8">
-        <text encoding="base64">ICAgCiAgIAogICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="&quot;" type="8">
-        <text encoding="base64">ICAgCiAgIAogICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">ICAgCiAgIAogICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIAogICA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIAogICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="8">
-        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIAogICA=</text>
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIA==</text>
       </register>
       <register name="8" type="8">
-        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIAogICA=</text>
+        <text encoding="base64">ICAgCiAgIAogICA=</text>
       </register>
       <register name="9" type="8">
-        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIAogICA=</text>
+        <text encoding="base64">ICAgCiAgIAogICA=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -65,7 +71,12 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
