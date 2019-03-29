@@ -24,29 +24,47 @@
       <file name="C:/Workspace/Code/CLionProjects/GtaRt/GtaRtRcvHKEX.cpp" timestamp="1550631662852">
         <mark key="[" line="825" column="20" />
       </file>
+      <file name="C:/Workspace/Code/CLionProjects/GtaRt/GtaRtRcv.cpp" timestamp="1553840113738">
+        <mark key="[" line="2738" column="83" />
+        <mark key="]" line="2738" column="83" />
+        <mark key="." line="2738" column="83" />
+        <mark key="^" line="2738" column="83" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="8">
-        <text encoding="base64">ICAgCiAgIAogICA=</text>
+        <text>Buy
+Buy
+Buy
+Buy
+Buy</text>
       </register>
       <register name="&quot;" type="8">
-        <text encoding="base64">ICAgCiAgIAogICA=</text>
+        <text>Buy
+Buy
+Buy
+Buy
+Buy</text>
       </register>
       <register name="2" type="8">
-        <text encoding="base64">ICAgCiAgIAogICA=</text>
+        <text>Buy
+Buy
+Buy
+Buy
+Buy</text>
       </register>
       <register name="3" type="8">
-        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIA==</text>
+        <text encoding="base64">ICAgCiAgIAogICA=</text>
       </register>
       <register name="4" type="8">
-        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIA==</text>
+        <text encoding="base64">ICAgCiAgIAogICA=</text>
       </register>
       <register name="5" type="8">
-        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIAogICA=</text>
+        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIA==</text>
       </register>
       <register name="6" type="8">
-        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIAogICA=</text>
+        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIA==</text>
       </register>
       <register name="7" type="8">
         <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIAogICA=</text>
@@ -65,7 +83,12 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
