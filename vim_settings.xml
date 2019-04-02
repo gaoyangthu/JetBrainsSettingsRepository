@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="C:/Workspace/Code/PyCharmProjects/RtKafkaProc/RealTimeDataInsertionKafkaCreateHisDataGta.py" timestamp="1554110425689">
