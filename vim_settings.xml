@@ -3,11 +3,12 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Workspace/Code/PyCharmProjects/ChineseEquity36/ChineseEquity.sql" timestamp="1560412376452">
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
-        <mark key="^" line="136" column="0" />
+      <file name="C:/Workspace/Code/PyCharmProjects/ChineseEquity36/ChineseEquity.sql" timestamp="1560415505645">
+        <mark key="'" line="96" column="28" />
+        <mark key="[" line="151" column="16" />
+        <mark key="]" line="151" column="23" />
+        <mark key="." line="151" column="23" />
+        <mark key="^" line="151" column="23" />
       </file>
       <file name="C:/Workspace/Code/PyCharmProjects/RtKafkaProc/RealTimeDataInsertionKafkaCreateHisDataGta.py" timestamp="1554110425689">
         <mark key="[" line="47" column="8" />
@@ -25,16 +26,39 @@
         <mark key="[" line="37" column="49" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="96" column="28" filename="C:/Workspace/Code/PyCharmProjects/ChineseEquity36/ChineseEquity.sql" />
+    </jumps>
     <registers>
       <register name="1" type="8">
-        <text encoding="base64">ICAgICAgCiAgICAgIAogICAgICAKICAgICAgCiAgICAgIAogICAgICA=</text>
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="2" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      </register>
+      <register name="3" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      </register>
+      <register name="4" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      </register>
+      <register name="5" type="8">
+        <text encoding="base64">ICAKICAKICAKICA=</text>
+      </register>
+      <register name="6" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      </register>
+      <register name="7" type="8">
+        <text encoding="base64">CgoKCgoKCgo=</text>
+      </register>
+      <register name="8" type="8">
         <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICA=</text>
+      </register>
+      <register name="9" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -61,6 +85,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
