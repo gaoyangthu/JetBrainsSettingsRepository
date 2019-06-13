@@ -9,22 +9,50 @@
       <file name="C:/Workspace/Code/PyCharmProjects/ChineseEquity/CloudFileReader.py" timestamp="1554110705072">
         <mark key="[" line="168" column="46" />
       </file>
+      <file name="C:/Workspace/Code/PyCharmProjects/ChineseEquity36/Utilizer.py" timestamp="1560390146822">
+        <mark key="[" line="420" column="19" />
+        <mark key="]" line="420" column="19" />
+        <mark key="." line="420" column="19" />
+        <mark key="^" line="420" column="19" />
+      </file>
       <file name="C:/Workspace/Code/PyCharmProjects/Test/NewsFeed.py" timestamp="1554110740263">
         <mark key="[" line="37" column="49" />
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="8">
+        <text encoding="base64">ICAgICAgCiAgICAgIAogICAgICAKICAgICAgCiAgICAgIAogICAgICA=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="2" type="8">
+        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICA=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
